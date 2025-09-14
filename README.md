@@ -3,7 +3,7 @@
 ### 🚀 Smart India Hackathon 2025 Project
 
 **Problem Statement ID:** SIH25052
-**Team Name:** Null\_Void
+**Team Name:** Null_Void
 
 ---
 
@@ -79,7 +79,7 @@ Our goal is to **digitally preserve cultural heritage** and **democratize access
 
 ## 👨‍💻 Team Null_Void
 
-* Prince Kapoor
+* Prince Kapoor (Team Leader)
 * Shivansh Kushwaha
 * Siddhesh Durgude
 * Suraj Layak
